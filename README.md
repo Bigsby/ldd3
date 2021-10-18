@@ -1,2 +1,2 @@
-# ldd3
-Linux Device Drivers 3 testing
+# Linux Device Drivers 3
+Trying out linux modules and the likes
